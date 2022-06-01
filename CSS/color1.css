@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+    background: url(../img/tiles1.png);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {background-color: rgba(255, 0, 0, 0.3);}
+h2 {background-color: rgba(0, 255, 0, 0.3);}
+h3 {background-color: rgba(0, 0, 255, 0.3);}
+#p1{
+    font-size: 72px;
+    color: rgba(255, 0, 0, 0.2);
+    text-transform: uppercase;
+    font-weight: bolder;
+}
